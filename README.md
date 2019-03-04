@@ -1,1 +1,1 @@
-# TicTacToe-by-typescr
+# TicTacToe-by-typescript
